@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         userSeeTextView = findViewById(R.id.textView)
         userSeeTextView.setText("Hej vad heter du?")
+        userSeeTextView.setText("Jag heter manne, vad heter du?")
 
 
 
